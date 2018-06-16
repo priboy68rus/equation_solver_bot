@@ -10,3 +10,13 @@ If you want to modify this bot, don't forget to create a config.py file with bot
 token = "..." # telegram
 key = "..."	# wolfram
 ```
+
+## Dependencies
+
+pyTelegramBotAPI
+
+WolframAlpha API
+
+```
+pip install pytelegrambotapi wolframalpha
+```
